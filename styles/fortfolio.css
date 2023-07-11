@@ -121,3 +121,19 @@
 .off {
     color: #E55473;
 }
+
+.section-3 {
+    text-align: center;
+    margin-top: 178px;
+    margin-bottom: 36px;
+}
+
+.section-3 h3 {
+    font-size: 48px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}

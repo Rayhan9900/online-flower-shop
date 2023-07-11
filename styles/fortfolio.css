@@ -170,3 +170,27 @@
     width: 15opx;
     height: 64px;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    margin-top: 178px;
+    margin-right: 240px;
+    margin-left: 240px;
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 36px;
+}
+
+footer h3 {
+    font-size: 48px;
+}
+
+.flower {
+    color: #E55473;
+    margin-top: 24px;
+}
+
+.copyright {
+    color: gray
+}

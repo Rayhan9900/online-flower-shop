@@ -2,21 +2,24 @@
     background-color: #E554731A;
     display: flex;
     justify-content: center;
-    margin-right: 140px;
-    margin-left: 140px;
+    gap: 97px;
 }
 
-.banner-title {
-    padding-left: 240px;
-    padding-top: 190px;
-    padding-right: 970px;
-    padding-bottom: 147px;
 
+.banner-title {
+    margin-left: 240px;
+    padding-top: 48px;
+
+}
+
+.banner-title h3 {
+    font-size: 80px;
+    font-weight: bold;
+    margin-right: 364px;
 }
 
 .banner img {
-    padding-top: 50px;
-    padding-right: 240px;
+    margin-right: 240px;
 }
 
 .btn-primary {
@@ -89,18 +92,12 @@
     display: flex;
     justify-content: center;
     background-color: #E554730D;
-    margin-right: 140px;
-    margin-left: 140px;
-    gap: 180px;
     margin-top: 178px;
 }
 
 .sign-up img {
-    width: 318px;
-    height: 420px;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-right: 420px;
+    height: 500px;
+    padding-top: 80px;
 }
 
 .caption {
@@ -167,7 +164,7 @@
     border-radius: 12px;
     color: white;
     margin-left: 8px;
-    width: 15opx;
+    width: 150px;
     height: 64px;
 }
 
@@ -175,8 +172,6 @@ footer {
     background-color: black;
     color: white;
     margin-top: 178px;
-    margin-right: 240px;
-    margin-left: 240px;
     text-align: center;
     padding-top: 48px;
     padding-bottom: 36px;

@@ -2,6 +2,8 @@
     background-color: #E554731A;
     display: flex;
     justify-content: center;
+    margin-right: 140px;
+    margin-left: 140px;
 }
 
 .banner-title {
@@ -27,4 +29,56 @@
 
 .banner-title h3 {
     font-size: xx-large;
+}
+
+.nav-title {
+    text-align: center;
+    margin-top: 178px;
+    font-size: 40px;
+
+}
+
+.nav-item {
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 36px;
+
+}
+
+.section {
+    padding-left: 200px 0px 200px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+
+}
+
+.section img {
+    width: 310px;
+    height: 470px;
+    border-top-right-radius: 180px;
+    border-top-left-radius: 180px;
+    padding-top: 36px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.section p {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.banner-section {
+    background-color: #A7216226;
+
+}
+
+.banner-img1 {
+    background-color: lightgray;
+}
+
+.banner-img {
+    background-color: rgb(244, 228, 228);
 }

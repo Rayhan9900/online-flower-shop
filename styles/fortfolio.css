@@ -1,0 +1,30 @@
+.banner {
+    background-color: #E554731A;
+    display: flex;
+    justify-content: center;
+}
+
+.banner-title {
+    padding-left: 240px;
+    padding-top: 190px;
+    padding-right: 970px;
+    padding-bottom: 147px;
+
+}
+
+.banner img {
+    padding-top: 50px;
+    padding-right: 240px;
+}
+
+.btn-primary {
+    background-color: #E55473;
+    color: white;
+    padding: 8px;
+    border-radius: 12px;
+
+}
+
+.banner-title h3 {
+    font-size: xx-large;
+}

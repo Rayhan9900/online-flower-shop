@@ -7,19 +7,25 @@
 
 
 .banner-title {
-    margin-left: 240px;
-    padding-top: 48px;
+    padding-left: 240px;
+    align-items: center;
+    margin-top: 300px;
+
 
 }
 
 .banner-title h3 {
-    font-size: 80px;
+    font-size: 64px;
     font-weight: bold;
-    margin-right: 364px;
+    margin-right: 180px;
+
 }
 
 .banner img {
     margin-right: 240px;
+    margin-top: 224px;
+    width: 360px;
+    height: 500px;
 }
 
 .btn-primary {
@@ -28,6 +34,7 @@
     padding: 8px;
     border-radius: 12px;
     margin-top: 32px;
+
 
 }
 
